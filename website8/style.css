@@ -1,0 +1,29 @@
+/* p {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+* {
+  box-sizing: border-box;
+  display: grid;
+}
+.header {
+  border: 1px solid blue;
+  text-align: center;
+}
+.container {
+  display: grid;
+  width: 100%;
+  float: center;
+  grid-row-gap:100px;
+  border: 1px solid blue;
+  text-align: center;
+}
+.well {
+  display: grid;
+  width: 50%;
+  padding: 15px;
+  grid-row-gap: 100px;
+  float: center;
+  border: 1px solid blue;
+  text-align: center;
+} */
